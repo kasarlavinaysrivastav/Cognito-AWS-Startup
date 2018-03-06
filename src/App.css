@@ -1,0 +1,13 @@
+body {
+  background-image: url("OathBackground.jpg");
+
+}
+
+.app {
+  display: flex;
+  justify-content: center;
+}
+
+.app .screen {
+  width: 1280px;
+}
